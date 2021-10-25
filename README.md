@@ -1,2 +1,2 @@
-# www
+# wwwx
 static Web site
